@@ -1,2 +1,1 @@
 # berrypi study
-Hi humans!
